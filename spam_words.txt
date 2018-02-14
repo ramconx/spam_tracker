@@ -1,0 +1,16 @@
+travel deals
+travel
+flight
+affordable
+cheap
+holiday
+packages
+save
+coupon
+free
+discount
+freebies
+deals
+referal
+sweepstakes
+\d+%

@@ -1,0 +1,5 @@
+client_id = 'your client id'
+client_secret = 'the according secret'
+password = 'your reddit password'
+user_agent = 'name of the client/bot/program'
+username = 'your reddit username'
